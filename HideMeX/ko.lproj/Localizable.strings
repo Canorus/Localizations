@@ -64,9 +64,9 @@
 "Disable Completely" = "완전히 비활성화";
 "Disable Everywhere" = "모든 곳에서 비활성화";
 "Disable Icon Jittering" = "편집모드 아이콘 떨림 비활성화";
-"Disable From Top" = "위에서부터 비활성화";
+"Disable From Top" = "위에서부터 끌어내리기 비활성화";
 "Disable On LockScreen" = "잠금화면에서 비활성화";
-"Disable On Side" = "옆에서부터 비활성화";
+"Disable On Side" = "맨 왼쪽 페이지 비활성화";
 "Disable Screen Bounce" = "화면 바운스 비활성화";
 "Disable Wallpaper Zoom" = "배경화면 확대 비활성화";
 "DND Icon" = "방해금지 아이콘";
@@ -88,7 +88,7 @@
 "Grabbers" = "손잡이";
 "Grabber Color" = "손잡이 색";
 "Grabber Opacity" = "손잡이 투명도";
-"Hide Darkening View" = "어둡게 보기 숨기기";
+"Hide Darkening View" = "어둡게 보이기 숨기기";
 "Hide Separators" = "구분선 없애기";
 "HideMeX Disable Alert" = "HideMeX를 비활성화하려고 하고 계시며, 완료하기 위해서는 리스프링이 필요합니다. 이 트윅을 비활성화하시겠습니까?";
 "Hide All Icon Badges" = "모든 아이콘 뱃지 숨기기";
@@ -143,9 +143,9 @@
 "No Backups Found, Create A New Backup" = "백업이 없습니다. 새 백업을 생성해 주세요.";
 "No Delay In Showing" = "지연없음";
 "No Service/Searching" = "서비스 없음/검색중";
-"Not Right Now" = "지금 하지 않음";
+"Not Right Now" = "취소";
 "Notification Center" = "알림 센터";
-"Nothing Right Now" = "지금 하지 않음";
+"Nothing Right Now" = "취소";
 "Page Dots" = "페이지 표시기";
 "Passcode Screen" = "비밀번호 입력 화면";
 "Pinch To Close" = "오므려서 닫기";
@@ -185,11 +185,11 @@
 "Signal Strength Icon" = "신호세기 아이콘";
 "Slide To Unlock" = "밀어서 잠금해제";
 "Slide To Unlock Glint" = "밀어서 잠금해제 반짝임";
-"Slowness Factor Footer" = "왼쪽으로 밀면 애니메이션 속도를 올립니다.";
-"Slow Factor" = "느림 요소";
+"Slowness Factor Footer" = "왼쪽으로 밀면 애니메이션 속도를 올립니다. 조금만 변경해도 많이 변합니다.";
+"Slow Factor" = "느림 정도 조절";
 "Sort By Apps" = "앱 순서로 정렬";
 "Spotlight" = "스팟라이트";
-"Subtitle Color" = "부제 색";
+"Subtitle Color" = "하위 항목 색";
 "Suppress Alerts" = "압축 알림";
 "Sufficient Power Reached Alerts" = "충분한 전력 충전 알림";
 "Support" = "지원";

@@ -49,7 +49,7 @@
 "Custom Formatter Footer" = "커스텀 포맷을 사용하면 AM/PM 숨기기와 대소문자 설정을 덮어씁니다.";
 "Custom Slide To Unlock" = "커스텀 밀어서 잠금해제";
 "Custom Touch ID" = "커스텀 터치 아이디";
-"Darkening Amount" = "밝기 조절";
+"Darkening Amount" = "어둡기 조절";
 "Data Networks Icon" = "데이터 네트워크 아이콘";
 "Date" = "날짜";
 "Debugging" = "디버깅";
@@ -63,7 +63,7 @@
 "Disable Blur" = "블러 비활성화";
 "Disable Completely" = "완전히 비활성화";
 "Disable Everywhere" = "모든 곳에서 비활성화";
-"Disable Icon Jittering" = "아이콘 진동 비활성화";
+"Disable Icon Jittering" = "편집모드 아이콘 떨림 비활성화";
 "Disable From Top" = "위에서부터 비활성화";
 "Disable On LockScreen" = "잠금화면에서 비활성화";
 "Disable On Side" = "옆에서부터 비활성화";
